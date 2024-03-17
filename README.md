@@ -3,7 +3,7 @@
 
 <a href=""><img alt="License" src="http://img.shields.io/:license-mit-blue.svg?style=flat-square?style=flat-square" /></a>
 
-<img width="100%" alt="Portfolio Screenshot" src="[https://tinyurl.com/2barlbm2](https://drive.google.com/file/d/1QTHA4oUfqWCxq9Fbnik_84m35Z_v1O1C/view?usp=sharing)">
+<img width="100%" alt="Portfolio Screenshot" src="Shreya-Gupta-Portfolio.png">
 
 
 :star: Star me on GitHub — it helps!
