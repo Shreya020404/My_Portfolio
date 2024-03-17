@@ -1,9 +1,9 @@
-# <a href="" target="_blank">My Portfolio</a>
+# <a href="https://my-portfolio-tau-neon-61.vercel.app/" target="_blank">My Portfolio</a>
 <p align="justify">This website displays my Projects, Web presence, Story, Work experience, and contact information.</p>
 
 <a href=""><img alt="License" src="http://img.shields.io/:license-mit-blue.svg?style=flat-square?style=flat-square" /></a>
 
-<img width="100%" alt="Portfolio Screenshot" src="">
+<img width="100%" alt="Portfolio Screenshot" src="https://tinyurl.com/2barlbm2">
 
 
 :star: Star me on GitHub — it helps!
